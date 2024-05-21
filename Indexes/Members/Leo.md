@@ -1,0 +1,6 @@
+---
+tags:
+  - GM
+  - Player
+  - "#Member"
+---
